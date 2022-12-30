@@ -1,5 +1,7 @@
 # project2
 
+Medi_Pluse project for future ready talent
+
 project demo link:https://delightful-mushroom-04b2a0900.2.azurestaticapps.net
 
 project demo vedio link:
